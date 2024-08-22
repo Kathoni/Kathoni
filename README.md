@@ -1,5 +1,5 @@
 <!--Level 1: Simple bio stats -->
-## Hi there I'm Sylvia Kathoni
+## Hello there 👋🏾 I'm Sylvia Kathoni
 
 - 🔭 I’m currently studying Bachelor of Information Technology at South Eastern Kenya University<br/>
 - 🌱 I’m well equiped with HTML and CSS and learning reactjs and JavaScript<br/>
