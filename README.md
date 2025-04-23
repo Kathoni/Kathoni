@@ -6,7 +6,7 @@
 - 👯 I’m looking forward to collaborate on several projects <br/>
 - 📫 How to reach me: thrusherkeys@gmail.com<br/>
 - 😄 Pronouns: her/she<br/>
-- ⚡ Fun fact: I'm afraid of the dark<br/>
+- ⚡ Fun fact: I'm afraid of the dark and love horror <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sylvia-kathoni-869ab42a7/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sylvia Kathoni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thrusherkeys@gmail.com) 
