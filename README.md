@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying Bachelor of Information Technology<br/>
 - 🌱 I’m well equiped Python and Django  and interested in ML and AI <br/>
 - 👯 I’m looking forward to collaborate on several projects <br/>
-- 📫 How to reach me: thrusherkeys@gmail.com<br/>
+- 📫 How to reach me: kathonisylvia0@gmail.com<br/>
 - 😄 Pronouns: her/she<br/>
 - ⚡ Fun fact: I'm afraid of the dark and love horror  <br/>
 
