@@ -1,12 +1,12 @@
 <!--Level 1: Simple bio stats -->
 ## Hello there 👋🏾 I'm Sylvia Kathoni
 
-- 🔭 I’m currently studying Bachelor of Information Technology<br/>
+- 🔭 I’m currently studying Bachelors degree in Information Technology<br/>
 - 🌱 I’m well equiped Python and Django  and interested in ML|AI and Data Engineering <br/>
 - 👯 I’m looking forward to collaborate on several projects <br/>
 - 📫 How to reach me: kathonisylvia0@gmail.com<br/>
 - 😄 Pronouns: her/she<br/>
-- ⚡ Fun fact: I'm afraid of the dark and love horror  <br/>
+- ⚡ Fun fact: I'm afraid of the dark but love horror movies  <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/sylvia-kathoni/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thrusherkeys@gmail.com) 
