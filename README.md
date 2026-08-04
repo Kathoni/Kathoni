@@ -2,7 +2,7 @@
 ## Hello there 👋🏾 I'm Sylvia Kathoni
 
 - 🔭 I’m currently studying Bachelors degree in Information Technology<br/>
-- 🌱 I’m well equiped Python and Django  and interested in ML|AI and Data Engineering <br/>
+- 🌱 I’m a Data Engineering Enthusiast <br/>
 - 👯 I’m looking forward to collaborate on several projects <br/>
 - 📫 How to reach me: kathonisylvia0@gmail.com<br/>
 - 😄 Pronouns: her/she<br/>
